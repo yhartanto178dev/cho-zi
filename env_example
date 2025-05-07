@@ -1,0 +1,8 @@
+ZITADEL_TOKEN_URL=http://localhost:8080/oauth/v2/token
+CLIENT_ID=bkpsdmbms
+CLIENT_SECRET=<your CLIENT_SECRET>
+ZITADEL_USERINFO_URL=http://localhost:8080/oidc/v1/userinfo
+REDIS_ADDR=localhost:6379
+REDIS_PASSWORD=
+REDIS_DB=0
+GO_ENV=development
